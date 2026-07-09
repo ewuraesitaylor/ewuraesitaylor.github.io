@@ -1,4 +1,4 @@
-# Lois Emma Ewuraesi Taylor — Personal Website
+# Lois Emma Ewuraesi Taylor: Personal Website
 
 The online home of an author, spoken word artist, and founder of GhanaReads. **One page, one file (`index.html`), no build tools** — editing it is just opening a file and typing.
 
